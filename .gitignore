@@ -1,0 +1,10 @@
+# Database credentials
+db_connect.php
+
+# Environment files
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
